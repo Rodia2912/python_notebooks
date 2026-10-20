@@ -13,7 +13,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-venv/
+.venv/
 env/
 build/
 develop-eggs/
@@ -49,3 +49,5 @@ target/
 
 # Notebook Checkpoints
 .ipynb_checkpoints/
+
+python_notebooks.code-workspace

@@ -1,0 +1,12 @@
+attrs
+fastjsonschema
+ipykernel
+jsonschema
+jsonschema-specifications
+jupyter_core
+nb-clean
+nbformat
+platformdirs
+referencing
+rpds-py
+traitlets
